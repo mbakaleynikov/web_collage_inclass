@@ -1,5 +1,5 @@
 # Remixed Map Collage
-## This was inspred by the connections that exist between all human beings.
+## This was inspired by the connections that exist between all human beings.
 
 Drawing On the Web 2020
 ==================
